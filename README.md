@@ -43,7 +43,7 @@ Install the required Python libraries:
 
 **Google Colab:**
 
-1. Create a folder named `Thesis_Experiments` in Google Drive.
+1. Create a folder named `NSL_KDD_Experiments` in Google Drive.
 2. Place `KDDTrain+.txt`, `KDDTest+.txt`, and `NSL_KDD_Experiments.ipynb` inside the folder.
 3. Open the notebook in Google Colab.
 4. Run all cells in sequence.
